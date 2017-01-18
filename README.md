@@ -6,7 +6,7 @@ Soy ingeniero en Ciencias de la Computación, he estado involucrado con equipos 
 - PHP 5, PHP 7
 - Symfony 2, 3 y Laravel 4, 5
 - Base de datos relacionales: MySQL, Postgres, SQL Server, SQL Lite.
-- Front-end (HTML, Javascript, CSS)
+- Front-end (HTML, Javascript, CSS, LESS)
 - Google services
 
 ### Proyectos y experiencia
